@@ -26,7 +26,7 @@ function boxClicked(){
     if (textEdit.innerHTML === "Welcome to the box!" || "Why did you leave me?");{
         alert("Thanks for clicking me");
     }
-}
+
     
 
 
